@@ -1,0 +1,5 @@
+1. Decreased by 1%
+2. Increased significantly (more than doubled)
+3. Default, but if you lower the latent period, the epidemic duration shortens and the number of infected increases (slightly), and vice versa
+4. Decrease number of days infectious to 1.8
+5. Set days infectious to 1.8 and beta to 0.000005. Percent infected drops to ~0.016%

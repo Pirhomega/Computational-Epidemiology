@@ -1,0 +1,412 @@
+Day 0
+Num infections: 11
+Num immune: 2
+Num susceptible: 53
+Num latent: 25
+Num infectious: 20
+Num recovered: 0
+-------------------------------
+Day 1
+Num infections: 4
+Num immune: 2
+Num susceptible: 41
+Num latent: 37
+Num infectious: 20
+Num recovered: 0
+-------------------------------
+Day 2
+Num infections: 8
+Num immune: 2
+Num susceptible: 28
+Num latent: 50
+Num infectious: 20
+Num recovered: 0
+-------------------------------
+Day 3
+Num infections: 4
+Num immune: 2
+Num susceptible: 20
+Num latent: 58
+Num infectious: 20
+Num recovered: 0
+-------------------------------
+Day 4
+Num infections: 5
+Num immune: 2
+Num susceptible: 14
+Num latent: 64
+Num infectious: 20
+Num recovered: 0
+-------------------------------
+Day 5
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 6
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 7
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 8
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 9
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 10
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 11
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 12
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 13
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 67
+Num infectious: 0
+Num recovered: 20
+-------------------------------
+Day 14
+Num infections: 0
+Num immune: 2
+Num susceptible: 11
+Num latent: 42
+Num infectious: 25
+Num recovered: 20
+-------------------------------
+Day 15
+Num infections: 1
+Num immune: 2
+Num susceptible: 9
+Num latent: 32
+Num infectious: 37
+Num recovered: 20
+-------------------------------
+Day 16
+Num infections: 3
+Num immune: 2
+Num susceptible: 3
+Num latent: 25
+Num infectious: 50
+Num recovered: 20
+-------------------------------
+Day 17
+Num infections: 1
+Num immune: 2
+Num susceptible: 1
+Num latent: 19
+Num infectious: 58
+Num recovered: 20
+-------------------------------
+Day 18
+Num infections: 1
+Num immune: 2
+Num susceptible: 0
+Num latent: 14
+Num infectious: 64
+Num recovered: 20
+-------------------------------
+Day 19
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 67
+Num recovered: 20
+-------------------------------
+Day 20
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 42
+Num recovered: 45
+-------------------------------
+Day 21
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 30
+Num recovered: 57
+-------------------------------
+Day 22
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 17
+Num recovered: 70
+-------------------------------
+Day 23
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 9
+Num recovered: 78
+-------------------------------
+Day 24
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 3
+Num recovered: 84
+-------------------------------
+Day 25
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 0
+Num recovered: 87
+-------------------------------
+Day 26
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 0
+Num recovered: 87
+-------------------------------
+Day 27
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 0
+Num recovered: 87
+-------------------------------
+Day 28
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 11
+Num infectious: 0
+Num recovered: 87
+-------------------------------
+Day 29
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 9
+Num infectious: 2
+Num recovered: 87
+-------------------------------
+Day 30
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 3
+Num infectious: 8
+Num recovered: 87
+-------------------------------
+Day 31
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 1
+Num infectious: 10
+Num recovered: 87
+-------------------------------
+Day 32
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 11
+Num recovered: 87
+-------------------------------
+Day 33
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 11
+Num recovered: 87
+-------------------------------
+Day 34
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 11
+Num recovered: 87
+-------------------------------
+Day 35
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 9
+Num recovered: 89
+-------------------------------
+Day 36
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 3
+Num recovered: 95
+-------------------------------
+Day 37
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 1
+Num recovered: 97
+-------------------------------
+Day 38
+Num infections: 0
+Num immune: 2
+Num susceptible: 0
+Num latent: 0
+Num infectious: 0
+Num recovered: 98
+-------------------------------
+Person 0 was contacted 192 times.
+Person 1 was contacted 190 times.
+Person 2 was contacted 207 times.
+Person 3 was contacted 226 times.
+Person 4 was contacted 175 times.
+Person 5 was contacted 218 times.
+Person 6 was contacted 214 times.
+Person 7 was contacted 176 times.
+Person 8 was contacted 173 times.
+Person 9 was contacted 182 times.
+Person 10 was contacted 198 times.
+Person 11 was contacted 187 times.
+Person 12 was contacted 200 times.
+Person 13 was contacted 191 times.
+Person 14 was contacted 196 times.
+Person 15 was contacted 207 times.
+Person 16 was contacted 202 times.
+Person 17 was contacted 188 times.
+Person 18 was contacted 171 times.
+Person 19 was contacted 193 times.
+Person 20 was contacted 188 times.
+Person 21 was contacted 200 times.
+Person 22 was contacted 191 times.
+Person 23 was contacted 200 times.
+Person 24 was contacted 192 times.
+Person 25 was contacted 187 times.
+Person 26 was contacted 202 times.
+Person 27 was contacted 216 times.
+Person 28 was contacted 218 times.
+Person 29 was contacted 200 times.
+Person 30 was contacted 168 times.
+Person 31 was contacted 186 times.
+Person 32 was contacted 209 times.
+Person 33 was contacted 194 times.
+Person 34 was contacted 184 times.
+Person 35 was contacted 219 times.
+Person 36 was contacted 188 times.
+Person 37 was contacted 178 times.
+Person 38 was contacted 194 times.
+Person 39 was contacted 215 times.
+Person 40 was contacted 186 times.
+Person 41 was contacted 190 times.
+Person 42 was contacted 183 times.
+Person 43 was contacted 221 times.
+Person 44 was contacted 202 times.
+Person 45 was contacted 196 times.
+Person 46 was contacted 196 times.
+Person 47 was contacted 212 times.
+Person 48 was contacted 171 times.
+Person 49 was contacted 200 times.
+Person 50 was contacted 204 times.
+Person 51 was contacted 199 times.
+Person 52 was contacted 199 times.
+Person 53 was contacted 204 times.
+Person 54 was contacted 191 times.
+Person 55 was contacted 177 times.
+Person 56 was contacted 202 times.
+Person 57 was contacted 208 times.
+Person 58 was contacted 197 times.
+Person 59 was contacted 205 times.
+Person 60 was contacted 212 times.
+Person 61 was contacted 207 times.
+Person 62 was contacted 188 times.
+Person 63 was contacted 180 times.
+Person 64 was contacted 211 times.
+Person 65 was contacted 176 times.
+Person 66 was contacted 183 times.
+Person 67 was contacted 182 times.
+Person 68 was contacted 199 times.
+Person 69 was contacted 208 times.
+Person 70 was contacted 196 times.
+Person 71 was contacted 200 times.
+Person 72 was contacted 226 times.
+Person 73 was contacted 195 times.
+Person 74 was contacted 191 times.
+Person 75 was contacted 186 times.
+Person 76 was contacted 232 times.
+Person 77 was contacted 170 times.
+Person 78 was contacted 206 times.
+Person 79 was contacted 213 times.
+Person 80 was contacted 201 times.
+Person 81 was contacted 178 times.
+Person 82 was contacted 195 times.
+Person 83 was contacted 197 times.
+Person 84 was contacted 188 times.
+Person 85 was contacted 191 times.
+Person 86 was contacted 200 times.
+Person 87 was contacted 219 times.
+Person 88 was contacted 159 times.
+Person 89 was contacted 201 times.
+Person 90 was contacted 176 times.
+Person 91 was contacted 206 times.
+Person 92 was contacted 176 times.
+Person 93 was contacted 185 times.
+Person 94 was contacted 147 times.
+Person 95 was contacted 191 times.
+Person 96 was contacted 191 times.
+Person 97 was contacted 177 times.
+Person 98 was contacted 198 times.
+Person 99 was contacted 205 times.

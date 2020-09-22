@@ -1,0 +1,10 @@
+{
+    "population":100,
+    "num_contacts":5,
+    "trans_rate":0.7,
+    "init_infected":20,
+    "latent_period":14,
+    "infectious_period":5,
+    "immune_perc":0.02,
+    "show_graph":true
+}

@@ -1,0 +1,14 @@
+Sources I might use later:
+CDC SARS: https://www.cdc.gov/sars/about/index.html
+CDC COVID-19 culturing: https://www.cdc.gov/coronavirus/2019-ncov/lab/grows-virus-cell-culture.html
+The Lancet Comparing COVID-19 and SARS-CoV: https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30484-9/fulltext
+CDC human coronavirus types: https://www.cdc.gov/coronavirus/types.html
+Past, Present, and Possible Future Human Infection with Influenza Virus A Subtype H7: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2727350/
+Influenza A Subtyping: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2928431/
+CDC Flu facts: https://www.cdc.gov/flu/about/professionals/genetic-characterization.htm
+Twelve deadly viruses: https://www.livescience.com/56598-deadliest-viruses-on-earth.html
+Antigenic shift: https://en.wikipedia.org/wiki/Antigenic_shift
+Antigenic drift: https://en.wikipedia.org/wiki/Antigenic_drift
+Strain: https://en.wikipedia.org/wiki/Strain_(biology)#cite_note-2
+Chapter 43 viral genetics: https://www.ncbi.nlm.nih.gov/books/NBK8439/
+Chapter 45 virual pathogenesis: https://www.ncbi.nlm.nih.gov/books/NBK8149/

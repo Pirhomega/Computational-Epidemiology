@@ -1,0 +1,71 @@
+// Graphviz Program
+// Computational Epidemiology - Summer II 2020
+// Dr. Johnson
+// Programmer: Corbin Matamoros
+// Program Description: 
+//      This program creates a small graph of Corbin's family tree, going back to his grandparents. 
+//      Key:    Siblings have green edges connecting each other.
+//              Spouses have red edge connecting each other.
+//              Parent-child relationships have black edges.
+//              Guys have blue nodes, girls have pink nodes.
+//              Deceased family members have blacked-out nodes.
+
+digraph G {
+    // Sets the graph to flow from left to right
+    rankdir=LR;
+    // Separate label with my name and title of graph
+    "Corbin's \nFamily Tree" [shape=box,fontname="Courier", fontsize=24];
+    // Creates a subgraph of the 1st generation of the family tree
+    subgraph Ggp {
+        // sets all edges in sub graph to be undirected
+        edge [dir=none]
+        // makes all nodes even with each other
+        rank="same";
+        "1st Gen" [shape=plain,fontname="Courier", fontsize=24]
+        Al[shape=house,color=Blue];
+        Winona[shape=house,color=Pink,style=filled,fillcolor=Black,fontcolor=White];
+        Lupe[shape=house,color=Blue];
+        Florencia[shape=house,color=Pink];
+        Lupe->Florencia[color=Red,style=Bold,label="Married",fontcolor=Red];
+        Al->Winona [color=Red,style=Bold,label="Married,\nDeceased",fontcolor=Red];
+    }
+    // Creates a subgraph of a separate node of the family tree, representing my grandpa's first wife
+    subgraph Ggp2 {
+        edge [dir=none]
+        rank="same";
+        firstwife[shape=house,color=Pink,style=filled,fillcolor=Black,fontcolor=White];
+    }
+    // Creates a subgraph of the 2nd generation of the family tree
+    subgraph Gp {
+        edge [dir=none]
+        rank="same";
+        "2nd Gen" [shape=plain,fontname="Courier", fontsize=24]
+        Elaine [shape=diamond,color=Pink];
+        Arnoldo[shape=diamond,color=Blue];
+        Arnoldo->Elaine [color=Red,style=Bold,label="Married",fontcolor=Red];
+    }
+    // Creates a subgraph of the 3rd generation of the family tree
+    subgraph Gs {
+        edge [dir=none]
+        rank="same";
+        "3rd Gen" [shape=plain,fontname="Courier", fontsize=24]
+        Corbin[shape=triangle,color=Blue];
+        Olivia[shape=triangle,color=Pink];
+        Katrina[shape=triangle,color=Pink];
+        Corbin->Olivia[label="Sibling",color=Green,fontcolor=Green]
+        Corbin->Katrina[label="Sibling",color=Green,fontcolor=Green]
+        Katrina->Olivia[label="Sibling",color=Green,fontcolor=Green]
+    }
+    // here are the rest of the edges that connect nodes from the different subgraphs
+    Corbin -> Elaine [decorate=true,label="Son"];
+    Corbin -> Arnoldo [label="Son"];
+    Olivia -> Elaine [label="Daughter"];
+    Olivia -> Arnoldo [label="Daughter"];
+    Katrina -> Elaine [label="Daughter"];
+    Katrina -> Arnoldo [label="Daughter"];
+    Arnoldo->Lupe [label="Son"];
+    Arnoldo->Florencia [label="Son"];
+    Elaine->Al [label="Daughter"];
+    Elaine->Winona [label="Daughter"];
+    Al->firstwife [dir=both,color=Red,style=Bold,label="Married,\nDeceased",fontcolor=Red];
+    }

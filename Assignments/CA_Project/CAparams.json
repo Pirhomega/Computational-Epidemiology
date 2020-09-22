@@ -1,0 +1,10 @@
+{
+    "num_row":10,
+    "num_col":10,
+    "init_infected":5,
+    "population":100,
+    "latent_period":4,
+    "infectious_period":10,
+    "max_exposure": 5,
+    "vonNeumann": false
+}

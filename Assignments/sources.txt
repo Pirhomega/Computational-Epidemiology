@@ -1,0 +1,11 @@
+US bureau of labor stats for: https://www.bls.gov/news.release/atus.nr0.htm
+	- how long people spend shopping: https://www.bls.gov/news.release/atus.t12.htm
+	- leisure and sports activities: https://www.bls.gov/news.release/atus.t11B.htm
+	- more of the second point: https://www.bls.gov/news.release/atus.t11A.htm
+COVID-19 and fomites data: https://www.tmc.edu/news/2020/03/coronavirus-can-live-on-surfaces-for-days/
+Contact Tracing from the CDC: https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/contact-tracing.html
+Public Health Guidance for Community-Related Exposure: https://www.cdc.gov/coronavirus/2019-ncov/php/public-health-recommendations.html
+WHO COVID-19 Q&A: https://www.who.int/news-room/q-a-detail/q-a-how-is-covid-19-transmitted
+Coronavirus (COVID-19) Assessments and the Importance of Calculating the Probability of Illness: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7176373/ 
+SARS-CoV-2 and COVID-19: The most important research questions :https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7074995/
+Chances of catching the rona: http://www.matherhospital.org/wp-content/uploads/2020/03/w305478m_Corona_chances_of_catching.pdf
